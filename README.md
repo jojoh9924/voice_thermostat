@@ -1,6 +1,6 @@
 # Voice thermostat
 
-Push-to-talk control for a single SmartRent thermostat. Speech is recognized locally with Vosk. Temperature changes go to SmartRent through the unofficial [`smartrent-py`](https://github.com/ZacheryThomas/smartrent-py) client.
+Push-to-talk control for a SmartRent thermostat. Speech is recognized locally with Vosk. Temperature changes go to SmartRent through the unofficial [`smartrent-py`](https://github.com/ZacheryThomas/smartrent-py) client.
 
 The script asks for an email and password each time it runs and does not save them.
 
